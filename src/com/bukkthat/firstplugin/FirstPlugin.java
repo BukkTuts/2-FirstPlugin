@@ -70,7 +70,7 @@ public class FirstPlugin extends JavaPlugin implements Listener {
 	 * This method tells Bukkit to scan through this class for EventHandlers.  If you don't register
 	 * events, then your EventHandlers will never be invoked.
 	 * 3) We defined the Event that we want to listen to in the method constructor.  In the parenthesis
-	 * you can see that we have "BlockPlaceEvent event".  The first word is a the Type of parameter
+	 * you can see that we have "BlockBreakEvent event".  The first word is a the Type of parameter
 	 * that this method takes, and in the situation of EventHandlers, is the Event that we want to
 	 * listen for.  If you wanted to listen for PlayerDeathEvent, in the parenthesis you'd have
 	 * "PlayerDeathEvent event".
