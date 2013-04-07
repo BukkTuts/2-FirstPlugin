@@ -14,7 +14,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 /*
  * Our class is named FirstPlugin, every word capitalized by convention
  * It extends the class JavaPlugin which allows you to use all the methods
- * contained in it.
+ * contained in it.  All plugins extend JavaPlugin, as they're a plugin for
+ * Bukkit made in java.
  * It implements the interface Listener which allows the methods in this class
  * to be called when the events are triggered.
  */
