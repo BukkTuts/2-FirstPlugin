@@ -1,4 +1,6 @@
 // The package that contains the class
+// You must own the domain name in order to use it! Such as .com or .net!
+// To overcome this, you can do me.<YourName>.PluginName, and other methods as well.
 package com.bukkthat.firstplugin;
 
 // Import everything we use from the Bukkit API or the Java language.
